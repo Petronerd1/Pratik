@@ -1,0 +1,15 @@
+C:\Users\ULAŞ\source\repos\OOPConsole\HavaDurumu\bin\Debug\net5.0\SuSicakligi.exe
+C:\Users\ULAŞ\source\repos\OOPConsole\HavaDurumu\bin\Debug\net5.0\SuSicakligi.deps.json
+C:\Users\ULAŞ\source\repos\OOPConsole\HavaDurumu\bin\Debug\net5.0\SuSicakligi.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\OOPConsole\HavaDurumu\bin\Debug\net5.0\SuSicakligi.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\OOPConsole\HavaDurumu\bin\Debug\net5.0\SuSicakligi.dll
+C:\Users\ULAŞ\source\repos\OOPConsole\HavaDurumu\bin\Debug\net5.0\ref\SuSicakligi.dll
+C:\Users\ULAŞ\source\repos\OOPConsole\HavaDurumu\bin\Debug\net5.0\SuSicakligi.pdb
+C:\Users\ULAŞ\source\repos\OOPConsole\HavaDurumu\obj\Debug\net5.0\SuSicakligi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\OOPConsole\HavaDurumu\obj\Debug\net5.0\SuSicakligi.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\OOPConsole\HavaDurumu\obj\Debug\net5.0\SuSicakligi.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\OOPConsole\HavaDurumu\obj\Debug\net5.0\SuSicakligi.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\OOPConsole\HavaDurumu\obj\Debug\net5.0\SuSicakligi.dll
+C:\Users\ULAŞ\source\repos\OOPConsole\HavaDurumu\obj\Debug\net5.0\ref\SuSicakligi.dll
+C:\Users\ULAŞ\source\repos\OOPConsole\HavaDurumu\obj\Debug\net5.0\SuSicakligi.pdb
+C:\Users\ULAŞ\source\repos\OOPConsole\HavaDurumu\obj\Debug\net5.0\SuSicakligi.genruntimeconfig.cache

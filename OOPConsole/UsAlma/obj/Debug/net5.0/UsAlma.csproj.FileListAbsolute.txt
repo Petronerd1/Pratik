@@ -1,0 +1,15 @@
+C:\Users\ULAŞ\source\repos\OOPConsole\UsAlma\bin\Debug\net5.0\UsAlma.exe
+C:\Users\ULAŞ\source\repos\OOPConsole\UsAlma\bin\Debug\net5.0\UsAlma.deps.json
+C:\Users\ULAŞ\source\repos\OOPConsole\UsAlma\bin\Debug\net5.0\UsAlma.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\OOPConsole\UsAlma\bin\Debug\net5.0\UsAlma.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\OOPConsole\UsAlma\bin\Debug\net5.0\UsAlma.dll
+C:\Users\ULAŞ\source\repos\OOPConsole\UsAlma\bin\Debug\net5.0\ref\UsAlma.dll
+C:\Users\ULAŞ\source\repos\OOPConsole\UsAlma\bin\Debug\net5.0\UsAlma.pdb
+C:\Users\ULAŞ\source\repos\OOPConsole\UsAlma\obj\Debug\net5.0\UsAlma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\OOPConsole\UsAlma\obj\Debug\net5.0\UsAlma.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\OOPConsole\UsAlma\obj\Debug\net5.0\UsAlma.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\OOPConsole\UsAlma\obj\Debug\net5.0\UsAlma.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\OOPConsole\UsAlma\obj\Debug\net5.0\UsAlma.dll
+C:\Users\ULAŞ\source\repos\OOPConsole\UsAlma\obj\Debug\net5.0\ref\UsAlma.dll
+C:\Users\ULAŞ\source\repos\OOPConsole\UsAlma\obj\Debug\net5.0\UsAlma.pdb
+C:\Users\ULAŞ\source\repos\OOPConsole\UsAlma\obj\Debug\net5.0\UsAlma.genruntimeconfig.cache

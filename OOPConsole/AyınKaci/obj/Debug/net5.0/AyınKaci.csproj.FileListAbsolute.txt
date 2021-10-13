@@ -1,0 +1,16 @@
+C:\Users\ULAŞ\source\repos\OOPConsole\AyınKaci\bin\Debug\net5.0\AyınKaci.exe
+C:\Users\ULAŞ\source\repos\OOPConsole\AyınKaci\bin\Debug\net5.0\AyınKaci.deps.json
+C:\Users\ULAŞ\source\repos\OOPConsole\AyınKaci\bin\Debug\net5.0\AyınKaci.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\OOPConsole\AyınKaci\bin\Debug\net5.0\AyınKaci.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\OOPConsole\AyınKaci\bin\Debug\net5.0\AyınKaci.dll
+C:\Users\ULAŞ\source\repos\OOPConsole\AyınKaci\bin\Debug\net5.0\ref\AyınKaci.dll
+C:\Users\ULAŞ\source\repos\OOPConsole\AyınKaci\bin\Debug\net5.0\AyınKaci.pdb
+C:\Users\ULAŞ\source\repos\OOPConsole\AyınKaci\obj\Debug\net5.0\AyınKaci.csproj.AssemblyReference.cache
+C:\Users\ULAŞ\source\repos\OOPConsole\AyınKaci\obj\Debug\net5.0\AyınKaci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\OOPConsole\AyınKaci\obj\Debug\net5.0\AyınKaci.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\OOPConsole\AyınKaci\obj\Debug\net5.0\AyınKaci.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\OOPConsole\AyınKaci\obj\Debug\net5.0\AyınKaci.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\OOPConsole\AyınKaci\obj\Debug\net5.0\AyınKaci.dll
+C:\Users\ULAŞ\source\repos\OOPConsole\AyınKaci\obj\Debug\net5.0\ref\AyınKaci.dll
+C:\Users\ULAŞ\source\repos\OOPConsole\AyınKaci\obj\Debug\net5.0\AyınKaci.pdb
+C:\Users\ULAŞ\source\repos\OOPConsole\AyınKaci\obj\Debug\net5.0\AyınKaci.genruntimeconfig.cache

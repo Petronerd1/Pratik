@@ -1,0 +1,15 @@
+C:\Users\ULAŞ\source\repos\OOPConsole\SayılarıToplayanSayıDışındaGirilenDeğerlerdeHataVEren\bin\Debug\net5.0\UcgenAlanHesaplama.exe
+C:\Users\ULAŞ\source\repos\OOPConsole\SayılarıToplayanSayıDışındaGirilenDeğerlerdeHataVEren\bin\Debug\net5.0\UcgenAlanHesaplama.deps.json
+C:\Users\ULAŞ\source\repos\OOPConsole\SayılarıToplayanSayıDışındaGirilenDeğerlerdeHataVEren\bin\Debug\net5.0\UcgenAlanHesaplama.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\OOPConsole\SayılarıToplayanSayıDışındaGirilenDeğerlerdeHataVEren\bin\Debug\net5.0\UcgenAlanHesaplama.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\OOPConsole\SayılarıToplayanSayıDışındaGirilenDeğerlerdeHataVEren\bin\Debug\net5.0\UcgenAlanHesaplama.dll
+C:\Users\ULAŞ\source\repos\OOPConsole\SayılarıToplayanSayıDışındaGirilenDeğerlerdeHataVEren\bin\Debug\net5.0\ref\UcgenAlanHesaplama.dll
+C:\Users\ULAŞ\source\repos\OOPConsole\SayılarıToplayanSayıDışındaGirilenDeğerlerdeHataVEren\bin\Debug\net5.0\UcgenAlanHesaplama.pdb
+C:\Users\ULAŞ\source\repos\OOPConsole\SayılarıToplayanSayıDışındaGirilenDeğerlerdeHataVEren\obj\Debug\net5.0\UcgenAlanHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\OOPConsole\SayılarıToplayanSayıDışındaGirilenDeğerlerdeHataVEren\obj\Debug\net5.0\UcgenAlanHesaplama.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\OOPConsole\SayılarıToplayanSayıDışındaGirilenDeğerlerdeHataVEren\obj\Debug\net5.0\UcgenAlanHesaplama.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\OOPConsole\SayılarıToplayanSayıDışındaGirilenDeğerlerdeHataVEren\obj\Debug\net5.0\UcgenAlanHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\OOPConsole\SayılarıToplayanSayıDışındaGirilenDeğerlerdeHataVEren\obj\Debug\net5.0\UcgenAlanHesaplama.dll
+C:\Users\ULAŞ\source\repos\OOPConsole\SayılarıToplayanSayıDışındaGirilenDeğerlerdeHataVEren\obj\Debug\net5.0\ref\UcgenAlanHesaplama.dll
+C:\Users\ULAŞ\source\repos\OOPConsole\SayılarıToplayanSayıDışındaGirilenDeğerlerdeHataVEren\obj\Debug\net5.0\UcgenAlanHesaplama.pdb
+C:\Users\ULAŞ\source\repos\OOPConsole\SayılarıToplayanSayıDışındaGirilenDeğerlerdeHataVEren\obj\Debug\net5.0\UcgenAlanHesaplama.genruntimeconfig.cache

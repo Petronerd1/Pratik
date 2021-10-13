@@ -1,0 +1,15 @@
+C:\Users\ULAŞ\source\repos\OOPConsole\DoğumTarihiHangiAya\bin\Debug\net5.0\DoğumTarihiHangiAya.exe
+C:\Users\ULAŞ\source\repos\OOPConsole\DoğumTarihiHangiAya\bin\Debug\net5.0\DoğumTarihiHangiAya.deps.json
+C:\Users\ULAŞ\source\repos\OOPConsole\DoğumTarihiHangiAya\bin\Debug\net5.0\DoğumTarihiHangiAya.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\OOPConsole\DoğumTarihiHangiAya\bin\Debug\net5.0\DoğumTarihiHangiAya.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\OOPConsole\DoğumTarihiHangiAya\bin\Debug\net5.0\DoğumTarihiHangiAya.dll
+C:\Users\ULAŞ\source\repos\OOPConsole\DoğumTarihiHangiAya\bin\Debug\net5.0\ref\DoğumTarihiHangiAya.dll
+C:\Users\ULAŞ\source\repos\OOPConsole\DoğumTarihiHangiAya\bin\Debug\net5.0\DoğumTarihiHangiAya.pdb
+C:\Users\ULAŞ\source\repos\OOPConsole\DoğumTarihiHangiAya\obj\Debug\net5.0\DoğumTarihiHangiAya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\OOPConsole\DoğumTarihiHangiAya\obj\Debug\net5.0\DoğumTarihiHangiAya.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\OOPConsole\DoğumTarihiHangiAya\obj\Debug\net5.0\DoğumTarihiHangiAya.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\OOPConsole\DoğumTarihiHangiAya\obj\Debug\net5.0\DoğumTarihiHangiAya.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\OOPConsole\DoğumTarihiHangiAya\obj\Debug\net5.0\DoğumTarihiHangiAya.dll
+C:\Users\ULAŞ\source\repos\OOPConsole\DoğumTarihiHangiAya\obj\Debug\net5.0\ref\DoğumTarihiHangiAya.dll
+C:\Users\ULAŞ\source\repos\OOPConsole\DoğumTarihiHangiAya\obj\Debug\net5.0\DoğumTarihiHangiAya.pdb
+C:\Users\ULAŞ\source\repos\OOPConsole\DoğumTarihiHangiAya\obj\Debug\net5.0\DoğumTarihiHangiAya.genruntimeconfig.cache

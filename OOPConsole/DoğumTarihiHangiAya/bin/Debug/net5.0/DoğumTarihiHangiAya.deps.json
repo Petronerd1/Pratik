@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DoğumTarihiHangiAya/1.0.0": {
+        "runtime": {
+          "DoğumTarihiHangiAya.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DoğumTarihiHangiAya/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

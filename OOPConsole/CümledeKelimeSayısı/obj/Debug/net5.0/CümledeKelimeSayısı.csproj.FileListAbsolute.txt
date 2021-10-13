@@ -1,0 +1,15 @@
+C:\Users\ULAŞ\source\repos\OOPConsole\CümledeKelimeSayısı\bin\Debug\net5.0\CümledeKelimeSayısı.exe
+C:\Users\ULAŞ\source\repos\OOPConsole\CümledeKelimeSayısı\bin\Debug\net5.0\CümledeKelimeSayısı.deps.json
+C:\Users\ULAŞ\source\repos\OOPConsole\CümledeKelimeSayısı\bin\Debug\net5.0\CümledeKelimeSayısı.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\OOPConsole\CümledeKelimeSayısı\bin\Debug\net5.0\CümledeKelimeSayısı.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\OOPConsole\CümledeKelimeSayısı\bin\Debug\net5.0\CümledeKelimeSayısı.dll
+C:\Users\ULAŞ\source\repos\OOPConsole\CümledeKelimeSayısı\bin\Debug\net5.0\ref\CümledeKelimeSayısı.dll
+C:\Users\ULAŞ\source\repos\OOPConsole\CümledeKelimeSayısı\bin\Debug\net5.0\CümledeKelimeSayısı.pdb
+C:\Users\ULAŞ\source\repos\OOPConsole\CümledeKelimeSayısı\obj\Debug\net5.0\CümledeKelimeSayısı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\OOPConsole\CümledeKelimeSayısı\obj\Debug\net5.0\CümledeKelimeSayısı.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\OOPConsole\CümledeKelimeSayısı\obj\Debug\net5.0\CümledeKelimeSayısı.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\OOPConsole\CümledeKelimeSayısı\obj\Debug\net5.0\CümledeKelimeSayısı.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\OOPConsole\CümledeKelimeSayısı\obj\Debug\net5.0\CümledeKelimeSayısı.dll
+C:\Users\ULAŞ\source\repos\OOPConsole\CümledeKelimeSayısı\obj\Debug\net5.0\ref\CümledeKelimeSayısı.dll
+C:\Users\ULAŞ\source\repos\OOPConsole\CümledeKelimeSayısı\obj\Debug\net5.0\CümledeKelimeSayısı.pdb
+C:\Users\ULAŞ\source\repos\OOPConsole\CümledeKelimeSayısı\obj\Debug\net5.0\CümledeKelimeSayısı.genruntimeconfig.cache

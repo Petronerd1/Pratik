@@ -1,0 +1,16 @@
+C:\Users\ULAŞ\source\repos\OOPConsole\Maas\bin\Debug\net5.0\Maas.exe
+C:\Users\ULAŞ\source\repos\OOPConsole\Maas\bin\Debug\net5.0\Maas.deps.json
+C:\Users\ULAŞ\source\repos\OOPConsole\Maas\bin\Debug\net5.0\Maas.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\OOPConsole\Maas\bin\Debug\net5.0\Maas.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\OOPConsole\Maas\bin\Debug\net5.0\Maas.dll
+C:\Users\ULAŞ\source\repos\OOPConsole\Maas\bin\Debug\net5.0\ref\Maas.dll
+C:\Users\ULAŞ\source\repos\OOPConsole\Maas\bin\Debug\net5.0\Maas.pdb
+C:\Users\ULAŞ\source\repos\OOPConsole\Maas\obj\Debug\net5.0\Maas.csproj.AssemblyReference.cache
+C:\Users\ULAŞ\source\repos\OOPConsole\Maas\obj\Debug\net5.0\Maas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\OOPConsole\Maas\obj\Debug\net5.0\Maas.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\OOPConsole\Maas\obj\Debug\net5.0\Maas.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\OOPConsole\Maas\obj\Debug\net5.0\Maas.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\OOPConsole\Maas\obj\Debug\net5.0\Maas.dll
+C:\Users\ULAŞ\source\repos\OOPConsole\Maas\obj\Debug\net5.0\ref\Maas.dll
+C:\Users\ULAŞ\source\repos\OOPConsole\Maas\obj\Debug\net5.0\Maas.pdb
+C:\Users\ULAŞ\source\repos\OOPConsole\Maas\obj\Debug\net5.0\Maas.genruntimeconfig.cache

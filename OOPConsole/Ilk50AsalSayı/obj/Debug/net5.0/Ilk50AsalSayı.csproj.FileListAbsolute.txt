@@ -1,0 +1,15 @@
+C:\Users\ULAŞ\source\repos\OOPConsole\Ilk50AsalSayı\bin\Debug\net5.0\Ilk50AsalSayı.exe
+C:\Users\ULAŞ\source\repos\OOPConsole\Ilk50AsalSayı\bin\Debug\net5.0\Ilk50AsalSayı.deps.json
+C:\Users\ULAŞ\source\repos\OOPConsole\Ilk50AsalSayı\bin\Debug\net5.0\Ilk50AsalSayı.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\OOPConsole\Ilk50AsalSayı\bin\Debug\net5.0\Ilk50AsalSayı.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\OOPConsole\Ilk50AsalSayı\bin\Debug\net5.0\Ilk50AsalSayı.dll
+C:\Users\ULAŞ\source\repos\OOPConsole\Ilk50AsalSayı\bin\Debug\net5.0\ref\Ilk50AsalSayı.dll
+C:\Users\ULAŞ\source\repos\OOPConsole\Ilk50AsalSayı\bin\Debug\net5.0\Ilk50AsalSayı.pdb
+C:\Users\ULAŞ\source\repos\OOPConsole\Ilk50AsalSayı\obj\Debug\net5.0\Ilk50AsalSayı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\OOPConsole\Ilk50AsalSayı\obj\Debug\net5.0\Ilk50AsalSayı.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\OOPConsole\Ilk50AsalSayı\obj\Debug\net5.0\Ilk50AsalSayı.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\OOPConsole\Ilk50AsalSayı\obj\Debug\net5.0\Ilk50AsalSayı.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\OOPConsole\Ilk50AsalSayı\obj\Debug\net5.0\Ilk50AsalSayı.dll
+C:\Users\ULAŞ\source\repos\OOPConsole\Ilk50AsalSayı\obj\Debug\net5.0\ref\Ilk50AsalSayı.dll
+C:\Users\ULAŞ\source\repos\OOPConsole\Ilk50AsalSayı\obj\Debug\net5.0\Ilk50AsalSayı.pdb
+C:\Users\ULAŞ\source\repos\OOPConsole\Ilk50AsalSayı\obj\Debug\net5.0\Ilk50AsalSayı.genruntimeconfig.cache

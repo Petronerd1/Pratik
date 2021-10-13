@@ -1,0 +1,15 @@
+C:\Users\ULAŞ\source\repos\OOPConsole\GirlilenSayıyaKadarOlanSayılarınToplamı\bin\Debug\net5.0\GirlilenSayıyaKadarOlanSayılarınToplamı.exe
+C:\Users\ULAŞ\source\repos\OOPConsole\GirlilenSayıyaKadarOlanSayılarınToplamı\bin\Debug\net5.0\GirlilenSayıyaKadarOlanSayılarınToplamı.deps.json
+C:\Users\ULAŞ\source\repos\OOPConsole\GirlilenSayıyaKadarOlanSayılarınToplamı\bin\Debug\net5.0\GirlilenSayıyaKadarOlanSayılarınToplamı.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\OOPConsole\GirlilenSayıyaKadarOlanSayılarınToplamı\bin\Debug\net5.0\GirlilenSayıyaKadarOlanSayılarınToplamı.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\OOPConsole\GirlilenSayıyaKadarOlanSayılarınToplamı\bin\Debug\net5.0\GirlilenSayıyaKadarOlanSayılarınToplamı.dll
+C:\Users\ULAŞ\source\repos\OOPConsole\GirlilenSayıyaKadarOlanSayılarınToplamı\bin\Debug\net5.0\ref\GirlilenSayıyaKadarOlanSayılarınToplamı.dll
+C:\Users\ULAŞ\source\repos\OOPConsole\GirlilenSayıyaKadarOlanSayılarınToplamı\bin\Debug\net5.0\GirlilenSayıyaKadarOlanSayılarınToplamı.pdb
+C:\Users\ULAŞ\source\repos\OOPConsole\GirlilenSayıyaKadarOlanSayılarınToplamı\obj\Debug\net5.0\GirlilenSayıyaKadarOlanSayılarınToplamı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\OOPConsole\GirlilenSayıyaKadarOlanSayılarınToplamı\obj\Debug\net5.0\GirlilenSayıyaKadarOlanSayılarınToplamı.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\OOPConsole\GirlilenSayıyaKadarOlanSayılarınToplamı\obj\Debug\net5.0\GirlilenSayıyaKadarOlanSayılarınToplamı.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\OOPConsole\GirlilenSayıyaKadarOlanSayılarınToplamı\obj\Debug\net5.0\GirlilenSayıyaKadarOlanSayılarınToplamı.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\OOPConsole\GirlilenSayıyaKadarOlanSayılarınToplamı\obj\Debug\net5.0\GirlilenSayıyaKadarOlanSayılarınToplamı.dll
+C:\Users\ULAŞ\source\repos\OOPConsole\GirlilenSayıyaKadarOlanSayılarınToplamı\obj\Debug\net5.0\ref\GirlilenSayıyaKadarOlanSayılarınToplamı.dll
+C:\Users\ULAŞ\source\repos\OOPConsole\GirlilenSayıyaKadarOlanSayılarınToplamı\obj\Debug\net5.0\GirlilenSayıyaKadarOlanSayılarınToplamı.pdb
+C:\Users\ULAŞ\source\repos\OOPConsole\GirlilenSayıyaKadarOlanSayılarınToplamı\obj\Debug\net5.0\GirlilenSayıyaKadarOlanSayılarınToplamı.genruntimeconfig.cache

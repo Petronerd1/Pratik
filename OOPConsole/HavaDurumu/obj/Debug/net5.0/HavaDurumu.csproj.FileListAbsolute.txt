@@ -1,0 +1,15 @@
+C:\Users\ULAŞ\source\repos\OOPConsole\HavaDurumu\bin\Debug\net5.0\HavaDurumu.exe
+C:\Users\ULAŞ\source\repos\OOPConsole\HavaDurumu\bin\Debug\net5.0\HavaDurumu.deps.json
+C:\Users\ULAŞ\source\repos\OOPConsole\HavaDurumu\bin\Debug\net5.0\HavaDurumu.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\OOPConsole\HavaDurumu\bin\Debug\net5.0\HavaDurumu.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\OOPConsole\HavaDurumu\bin\Debug\net5.0\HavaDurumu.dll
+C:\Users\ULAŞ\source\repos\OOPConsole\HavaDurumu\bin\Debug\net5.0\ref\HavaDurumu.dll
+C:\Users\ULAŞ\source\repos\OOPConsole\HavaDurumu\bin\Debug\net5.0\HavaDurumu.pdb
+C:\Users\ULAŞ\source\repos\OOPConsole\HavaDurumu\obj\Debug\net5.0\HavaDurumu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\OOPConsole\HavaDurumu\obj\Debug\net5.0\HavaDurumu.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\OOPConsole\HavaDurumu\obj\Debug\net5.0\HavaDurumu.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\OOPConsole\HavaDurumu\obj\Debug\net5.0\HavaDurumu.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\OOPConsole\HavaDurumu\obj\Debug\net5.0\HavaDurumu.dll
+C:\Users\ULAŞ\source\repos\OOPConsole\HavaDurumu\obj\Debug\net5.0\ref\HavaDurumu.dll
+C:\Users\ULAŞ\source\repos\OOPConsole\HavaDurumu\obj\Debug\net5.0\HavaDurumu.pdb
+C:\Users\ULAŞ\source\repos\OOPConsole\HavaDurumu\obj\Debug\net5.0\HavaDurumu.genruntimeconfig.cache
